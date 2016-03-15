@@ -1,0 +1,28 @@
+name: startup
+favicon: null
+layout_spectrum: 0.685149640776217
+typography_spectrum: 0.25335925654508173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2140135618392378
+  lightness: 0.5711500730831176
+  saturation: 0.6495166288223118
+  rhythmicContrast: 0.7433659026864916
+purpose: []
